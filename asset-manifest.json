@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-d3-app/static/css/main.16fc0512.css",
+    "main.js": "/my-d3-app/static/js/main.710bce22.js",
+    "static/js/787.97984c33.chunk.js": "/my-d3-app/static/js/787.97984c33.chunk.js",
+    "index.html": "/my-d3-app/index.html",
+    "main.16fc0512.css.map": "/my-d3-app/static/css/main.16fc0512.css.map",
+    "main.710bce22.js.map": "/my-d3-app/static/js/main.710bce22.js.map",
+    "787.97984c33.chunk.js.map": "/my-d3-app/static/js/787.97984c33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16fc0512.css",
+    "static/js/main.710bce22.js"
+  ]
+}
